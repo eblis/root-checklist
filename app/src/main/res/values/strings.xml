@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Root Checklist notify</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="initial_description">Press button to check for known root giveaways so you can fix them</string>
+
+</resources>
